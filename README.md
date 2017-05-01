@@ -1,1 +1,1 @@
-# Project10_CST112
+# Creating two alien objects bouncing around the output window with randomized speeds. Also I used the append and shorten functions to manipulate the object array so that more objects can appear or disappear one by one. The objects also change color when the mouse is pressed but returns back to the original color when the mouse is released. Created a gradient background using a simple for loop solution.
